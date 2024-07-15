@@ -7,10 +7,10 @@ public class flowchart{
         System.out.print(" no next line");
         System.out.println("  without next line ");
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
+        /*int a = sc.nextInt();
       System.out.println("value input by user is :");
         System.out.println(a);
-        sc.close();
+        sc.close();*/
 
         /* ~ Data-types(8) :
         1. byte (1 byte)
@@ -30,6 +30,90 @@ public class flowchart{
         4  Bitwise (>>(left shift ),<<(right shift), &,|,^(XOR),~(Negation))
         5. Assignment (=, +=,-=,&=,>>=,<<=,|=,*=,/=,etc.)
         */
+
+        //int n = sc.nextInt(); 
+        /*int i  = 0;
+        while(i<=n){
+          System.out.println(i);
+          i ++;
+        }*/
+
+        /*for (int i =0 ; i <=n ; i++){
+          System.out.println(i);
+        }*/
+
+        /*int n = sc.nextInt();
+        for(int i = 0; i <n ; i++){
+          System.out.print("* ");
+         
+        }
+        System.out.println();
+        for( int i =1; i <=n ; i++){
+          System.out.print(i + " ");
+        } */
+       /*int n = 6;
+       for(int i = 0; i <=n ; i ++){
+        for(int j = 1; j <= n; j++){
+        System.out.print(j + " ");
+        }
+        System.out.println();
+       }*/
+
+       /*int n = 5;
+       for(int i = 1; i <= n; i++){
+        for(int j = 1; j <=n; j++){
+          System.out.print("* ");
+        }
+        System.out.println();
+       }*/
+
+       /*int n = 4;
+       for(int i = 1; i<=n; i++){
+        for(int j =1; j<=i; j++){
+          System.out.print("* ");
+        }
+        System.out.println();
+       }*/
+
+       /*int n = 4;
+       for(int i = 1; i <= n ; i++){
+        for(int k =1 ; k<= n-i; k++ ){
+          System.out.print("  ");
+        }
+        for(int j = 1; j<= i; j++){
+          System.out.print("* ");
+        }
+        System.out.println();
+       }*/
+
+       /*int n = 4;
+       for(int i = n;i >= 1; i-- ){
+        for(int j =1; j <= i ; j++){
+          System.out.print("* ");
+        }
+        System.out.println();
+        
+       }*/
+
+       /*int n = 4;
+       for (int i = n; i>=1; i--){
+        for(int k = 1; k <= n-i; k++){
+          System.out.print("    ");
+
+        }
+        for(int j = 1; j<=i; j++){
+          System.out.print("* ");
+        }
+        System.out.println();
+       }*/
+
+       for (int i = 1; i <= n; i++){
+        if()
+       }
+
+
+
+
         
           
 
