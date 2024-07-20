@@ -107,9 +107,7 @@ public class flowchart{
         System.out.println();
        }*/
 
-       for (int i = 1; i <= n; i++){
-        if()
-       }
+       
 
 
 
